@@ -10,7 +10,7 @@ This dashboard provides a data-driven view of labour market equity in Malaysia. 
 
 | Page | Focus Area | Period Covered |
 |------|-----------|---------------|
-| [Page 1] — Gender & Age Group | Labour force participation rates, salary gaps, industry breakdown | Q2 2022 – Q1 2025 *only salary gaps has no period range |
+| [Page 1] — Gender & Age Group | Labour force participation rates, salary gaps, industry breakdown | Q2 2022 – Q1 2025 *only salary gaps has no period range* |
 | [Page 2] — Ethnic & Education Level | Ethnic group participation, education-level attainment and earnings | Q2 2022 – Q1 2025 |
 
 ---
@@ -67,7 +67,7 @@ The dashboard covers six core DEI dimensions:
 
 ## 🔍 Key Findings
 
-- **Sector concentration by gender**: Women make up approximately 87% of the Arts, Entertainment & Recreation workforce and 66% of Education — while men account for 83% of Agriculture and 90% of Public Administration — indicating that both genders face heavy sector concentration, with women clustered in lower-wage service roles and men in resource and institutional sectors.
+- **Sector concentration by gender**: Women make up approximately 87% of the Activities of households as employers and 66% of Education — while men account for 83% of Agriculture and 90% of Electrical & Construction — indicating that both genders face heavy sector concentration, with women clustered in lower-wage service roles and men in resource sectors.
 - **Generational workforce participation**: The 25–34 age group represents the peak of female labour force participation (932), yet this is also where the gap begins to reverse — by 35–44, female participation drops to 879 while male participation rises to 1,158 — pointing to a structural exit from the workforce that coincides with prime family-forming years.
 - **Ethnicity and labour force share**: Non-citizens represent the largest single group in Malaysia's labour force at 19.47%, ahead of Bumiputera (15.65%) and all other ethnic groups — highlighting the extent to which the economy depends on migrant labour, a population typically least covered by formal employment protections.
 - **Educational attainment impact**: Workers with tertiary education record an average value of 75, compared to 65 for those with no formal education — a 15% difference — yet the gap between tertiary and secondary (SPM-level) qualifications is far narrower at just 75 vs 68, suggesting diminishing returns at the middle education tier.
@@ -133,11 +133,9 @@ The Power BI data model contains the following tables:
 
 ## 🖼️ Dashboard Preview
 
-> *(Add a screenshot of your dashboard here once published)*
+![Dashboard Overview Page 1](DEI%20Malaysia%20Employment/Screenshots/dashboard%20overview%20page%201.jpg)
+![Dashboard Overview Page 2](DEI%20Malaysia%20Employment/Screenshots/dashboard%20overview%20page%202.jpg)
 
-```
-![Dashboard Overview](screenshots/dashboard_overview.png)
-```
 ---
 
 ## 📂 Data Sources
@@ -189,4 +187,4 @@ This project is open for reference and learning purposes. Data sources belong to
 
 ---
 
-*Built with ♥ as part of an AI & Machine Learning Bootcamp capstone — Nexperts Academy, 2026*
+*Individual student project of Siti Nurnazihah. Built with ♥ as part of an AI & Machine Learning Bootcamp capstone — Nexperts Academy, 2026*
