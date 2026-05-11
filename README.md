@@ -10,8 +10,8 @@ This dashboard provides a data-driven view of labour market equity in Malaysia. 
 
 | Page | Focus Area | Period Covered |
 |------|-----------|---------------|
-| Page 1 — Gender & Age Group | Labour force participation rates, salary gaps, industry breakdown | Q2 2022 – Q1 2025 *only salary gaps has no period range |
-| Page 2 — Ethnic & Education Level | Ethnic group participation, education-level attainment and earnings | Q2 2022 – Q1 2025 |
+| [Page 1](https://github.com/SitiNazihah227/-Power-BI-Diversity-Equity-Inclusion-DEI-Analysis-of-Employment-in-Malaysia-/blob/main/Dashboard%20Preview%20Page%201.jpg) — Gender & Age Group | Labour force participation rates, salary gaps, industry breakdown | Q2 2022 – Q1 2025 *only salary gaps has no period range |
+| [Page 2](https://github.com/SitiNazihah227/-Power-BI-Diversity-Equity-Inclusion-DEI-Analysis-of-Employment-in-Malaysia-/blob/main/Dashboard%20Preview%20Page%202.jpg) — Ethnic & Education Level | Ethnic group participation, education-level attainment and earnings | Q2 2022 – Q1 2025 |
 
 ---
 
